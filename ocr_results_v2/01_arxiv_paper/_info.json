@@ -1,0 +1,27 @@
+{
+  "desc": "English paper (14.5MB, 32p)",
+  "size_mb": 14.5,
+  "total_pages": 32,
+  "tested": 3,
+  "avg_time": 17.1,
+  "pages": [
+    {
+      "page": 1,
+      "time": 17.8,
+      "w": 1700,
+      "h": 2200
+    },
+    {
+      "page": 2,
+      "time": 16.4,
+      "w": 1700,
+      "h": 2200
+    },
+    {
+      "page": 3,
+      "time": 17.0,
+      "w": 1700,
+      "h": 2200
+    }
+  ]
+}

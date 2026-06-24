@@ -1,0 +1,39 @@
+{
+  "file": "04_chinese_news.pdf",
+  "desc": "Mixed Chinese/English doc",
+  "size_kb": 3182,
+  "pages": 58,
+  "processed": 5,
+  "results": [
+    {
+      "page": 1,
+      "time": 20.5,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 2,
+      "time": 13.2,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 3,
+      "time": 14.7,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 4,
+      "time": 14.0,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 5,
+      "time": 13.4,
+      "width": 1654,
+      "height": 2339
+    }
+  ]
+}

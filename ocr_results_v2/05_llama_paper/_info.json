@@ -1,0 +1,27 @@
+{
+  "desc": "LLaMA paper (0.7MB, 27p)",
+  "size_mb": 0.7,
+  "total_pages": 27,
+  "tested": 3,
+  "avg_time": 35.4,
+  "pages": [
+    {
+      "page": 1,
+      "time": 34.7,
+      "w": 1654,
+      "h": 2339
+    },
+    {
+      "page": 2,
+      "time": 36.0,
+      "w": 1654,
+      "h": 2339
+    },
+    {
+      "page": 3,
+      "time": 35.6,
+      "w": 1654,
+      "h": 2339
+    }
+  ]
+}

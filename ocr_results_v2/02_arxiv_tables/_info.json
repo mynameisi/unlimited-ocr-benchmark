@@ -1,0 +1,27 @@
+{
+  "desc": "English tables (1.6MB, 55p)",
+  "size_mb": 1.6,
+  "total_pages": 55,
+  "tested": 3,
+  "avg_time": 17.5,
+  "pages": [
+    {
+      "page": 1,
+      "time": 11.0,
+      "w": 1654,
+      "h": 2339
+    },
+    {
+      "page": 2,
+      "time": 19.0,
+      "w": 1654,
+      "h": 2339
+    },
+    {
+      "page": 3,
+      "time": 22.5,
+      "w": 1654,
+      "h": 2339
+    }
+  ]
+}

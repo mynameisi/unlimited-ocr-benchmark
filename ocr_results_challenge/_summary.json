@@ -1,0 +1,38 @@
+[
+  {
+    "file": "c1_chinese_scanned.pdf",
+    "scenario": "Chinese scanned (noise+skew)",
+    "time_s": 6.4,
+    "status": "EXCELLENT - perfect Chinese recognition"
+  },
+  {
+    "file": "c2_photo_doc.pdf",
+    "scenario": "Photo of document (shadow+folds)",
+    "time_s": 16.8,
+    "status": "PARTIAL - repetition after phone number"
+  },
+  {
+    "file": "c3_handwriting.pdf",
+    "scenario": "Handwriting mock",
+    "time_s": 17.1,
+    "status": "PARTIAL - repetition after first paragraph"
+  },
+  {
+    "file": "c4_poor_quality.pdf",
+    "scenario": "Poor quality (low contrast+blur+yellow)",
+    "time_s": 3.4,
+    "status": "OK - symbols garbled, text fine"
+  },
+  {
+    "file": "c5_newspaper.pdf",
+    "scenario": "Multi-column newspaper layout",
+    "time_s": 6.8,
+    "status": "EXCELLENT - perfect layout detection"
+  },
+  {
+    "file": "c6_stamped_doc.pdf",
+    "scenario": "Contract with stamp/watermark overlay",
+    "time_s": 17.2,
+    "status": "PARTIAL - stamp interference caused repetition"
+  }
+]

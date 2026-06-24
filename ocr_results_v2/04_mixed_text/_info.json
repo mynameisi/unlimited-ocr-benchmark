@@ -1,0 +1,27 @@
+{
+  "desc": "English LoRA paper (1.5MB, 26p)",
+  "size_mb": 1.5,
+  "total_pages": 26,
+  "tested": 3,
+  "avg_time": 16.9,
+  "pages": [
+    {
+      "page": 1,
+      "time": 17.1,
+      "w": 1700,
+      "h": 2200
+    },
+    {
+      "page": 2,
+      "time": 16.6,
+      "w": 1700,
+      "h": 2200
+    },
+    {
+      "page": 3,
+      "time": 17.0,
+      "w": 1700,
+      "h": 2200
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "file": "01_arxiv_paper.pdf",
+  "desc": "English arXiv paper (math/formulas)",
+  "size_kb": 14806,
+  "pages": 32,
+  "processed": 5,
+  "results": [
+    {
+      "page": 1,
+      "time": 41.4,
+      "width": 1700,
+      "height": 2200
+    },
+    {
+      "page": 2,
+      "time": 28.7,
+      "width": 1700,
+      "height": 2200
+    },
+    {
+      "page": 3,
+      "time": 84.8,
+      "width": 1700,
+      "height": 2200
+    },
+    {
+      "page": 4,
+      "time": 82.6,
+      "width": 1700,
+      "height": 2200
+    },
+    {
+      "page": 5,
+      "time": 82.4,
+      "width": 1700,
+      "height": 2200
+    }
+  ]
+}

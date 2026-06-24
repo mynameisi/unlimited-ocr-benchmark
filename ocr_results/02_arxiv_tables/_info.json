@@ -1,0 +1,39 @@
+{
+  "file": "02_arxiv_tables.pdf",
+  "desc": "English paper with tables",
+  "size_kb": 1652,
+  "pages": 55,
+  "processed": 5,
+  "results": [
+    {
+      "page": 1,
+      "time": 10.6,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 2,
+      "time": 19.0,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 3,
+      "time": 22.6,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 4,
+      "time": 102.2,
+      "width": 1654,
+      "height": 2339
+    },
+    {
+      "page": 5,
+      "time": 30.2,
+      "width": 1654,
+      "height": 2339
+    }
+  ]
+}
