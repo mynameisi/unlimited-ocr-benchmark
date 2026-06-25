@@ -1,0 +1,27 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime / temp outputs
+ocr_output/
+*.log
+
+# Duplicate flat-path PDFs (hardlinks created locally so legacy scripts that
+# expect test_pdfs/<name>.pdf still work; real files live in test_pdfs/arxiv
+# and test_pdfs/challenge)
+/test_pdfs/01_arxiv_paper.pdf
+/test_pdfs/02_arxiv_tables.pdf
+/test_pdfs/03_chinese.pdf
+/test_pdfs/04_chinese_news.pdf
+/test_pdfs/04_mixed_text.pdf
+/test_pdfs/05_llama_paper.pdf
+/test_pdfs/06_gpt4_report.pdf
+/test_pdfs/07_deepseek_r1.pdf
+/test_pdfs/08_large_images.pdf
+/test_pdfs/c1_chinese_scanned.pdf
+/test_pdfs/c2_photo_doc.pdf
+/test_pdfs/c3_handwriting.pdf
+/test_pdfs/c4_poor_quality.pdf
+/test_pdfs/c5_newspaper.pdf
+/test_pdfs/c6_stamped_doc.pdf

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "c1_chinese_scanned.pdf",
+    "scenario": "\u4e2d\u6587\u626b\u63cf\u4ef6\uff08\u5e26\u566a\u70b9+\u8f7b\u5fae\u503e\u659c\uff09",
+    "size_kb": 208,
+    "time": 12.6,
+    "w": 1600,
+    "h": 2200,
+    "status": "OK"
+  },
+  {
+    "file": "c2_photo_doc.pdf",
+    "scenario": "\u624b\u673a\u62cd\u6444\u6587\u6863\uff08\u9634\u5f71+\u6298\u75d5\uff09",
+    "size_kb": 246,
+    "time": 9.3,
+    "w": 1600,
+    "h": 2200,
+    "status": "OK"
+  },
+  {
+    "file": "c3_handwriting.pdf",
+    "scenario": "\u624b\u5199\u4f53\uff08\u6a21\u62df\u7b14\u8ff9\uff09",
+    "size_kb": 169,
+    "time": 25.0,
+    "w": 1600,
+    "h": 2200,
+    "status": "OK"
+  },
+  {
+    "file": "c4_poor_quality.pdf",
+    "scenario": "\u4f4e\u8d28\u91cf\u626b\u63cf\uff08\u4f4e\u5bf9\u6bd4\u5ea6+\u6a21\u7cca+\u6cdb\u9ec4\uff09",
+    "size_kb": 196,
+    "time": 6.5,
+    "w": 1600,
+    "h": 2200,
+    "status": "OK"
+  },
+  {
+    "file": "c5_newspaper.pdf",
+    "scenario": "\u591a\u680f\u62a5\u7eb8\u6392\u7248",
+    "size_kb": 180,
+    "time": 12.6,
+    "w": 1600,
+    "h": 2200,
+    "status": "OK"
+  },
+  {
+    "file": "c6_stamped_doc.pdf",
+    "scenario": "\u5408\u540c\u76d6\u7ae0/\u6c34\u5370\u8986\u76d6",
+    "size_kb": 164,
+    "time": 25.0,
+    "w": 1600,
+    "h": 2200,
+    "status": "OK"
+  }
+]

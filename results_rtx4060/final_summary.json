@@ -1,0 +1,38 @@
+[
+  {
+    "file": "c1_chinese_scanned.pdf",
+    "desc": "\u4e2d\u6587\u626b\u63cf\u4ef6",
+    "size_kb": 208,
+    "time_s": 11.1
+  },
+  {
+    "file": "c2_photo_doc.pdf",
+    "desc": "\u624b\u673a\u62cd\u6444\u6587\u6863",
+    "size_kb": 246,
+    "time_s": 8.3
+  },
+  {
+    "file": "c3_handwriting.pdf",
+    "desc": "\u624b\u5199\u4f53",
+    "size_kb": 169,
+    "time_s": 25.0
+  },
+  {
+    "file": "c4_poor_quality.pdf",
+    "desc": "\u4f4e\u8d28\u91cf\u626b\u63cf",
+    "size_kb": 196,
+    "time_s": 6.2
+  },
+  {
+    "file": "c5_newspaper.pdf",
+    "desc": "\u591a\u680f\u62a5\u7eb8",
+    "size_kb": 180,
+    "time_s": 10.8
+  },
+  {
+    "file": "c6_stamped_doc.pdf",
+    "desc": "\u76d6\u7ae0\u5408\u540c",
+    "size_kb": 164,
+    "time_s": 23.8
+  }
+]

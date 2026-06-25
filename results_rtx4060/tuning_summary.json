@@ -1,0 +1,114 @@
+[
+  {
+    "label": "baseline (default)",
+    "no_repeat_ngram_size": 0,
+    "ngram_window": 0,
+    "temperature": 0.0,
+    "max_length": 4096,
+    "time_s": 119.2
+  },
+  {
+    "label": "ngram10_w30",
+    "no_repeat_ngram_size": 10,
+    "ngram_window": 30,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 24.6
+  },
+  {
+    "label": "ngram20_w50",
+    "no_repeat_ngram_size": 20,
+    "ngram_window": 50,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 25.0
+  },
+  {
+    "label": "ngram35_w100 (infer.py default)",
+    "no_repeat_ngram_size": 35,
+    "ngram_window": 100,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 25.0
+  },
+  {
+    "label": "ngram50_w128",
+    "no_repeat_ngram_size": 50,
+    "ngram_window": 128,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 24.7
+  },
+  {
+    "label": "ngram35_w200",
+    "no_repeat_ngram_size": 35,
+    "ngram_window": 200,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 27.0
+  },
+  {
+    "label": "ngram20_w128_temp0.1",
+    "no_repeat_ngram_size": 20,
+    "ngram_window": 128,
+    "temperature": 0.1,
+    "max_length": 2048,
+    "time_s": 9.8
+  },
+  {
+    "label": "ngram35_w128_temp0.1",
+    "no_repeat_ngram_size": 35,
+    "ngram_window": 128,
+    "temperature": 0.1,
+    "max_length": 2048,
+    "time_s": 6.9
+  },
+  {
+    "label": "ngram50_w128_temp0.1",
+    "no_repeat_ngram_size": 50,
+    "ngram_window": 128,
+    "temperature": 0.1,
+    "max_length": 2048,
+    "time_s": 6.2
+  },
+  {
+    "label": "ngram35_w128 (recommended)",
+    "no_repeat_ngram_size": 35,
+    "ngram_window": 128,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 25.2
+  },
+  {
+    "label": "ngram50_w100_long",
+    "no_repeat_ngram_size": 50,
+    "ngram_window": 100,
+    "temperature": 0.0,
+    "max_length": 4096,
+    "time_s": 121.2
+  },
+  {
+    "label": "ngram70_w200",
+    "no_repeat_ngram_size": 70,
+    "ngram_window": 200,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 10.0
+  },
+  {
+    "label": "ngram80_w200",
+    "no_repeat_ngram_size": 80,
+    "ngram_window": 200,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 21.6
+  },
+  {
+    "label": "ngram100_w200",
+    "no_repeat_ngram_size": 100,
+    "ngram_window": 200,
+    "temperature": 0.0,
+    "max_length": 2048,
+    "time_s": 11.8
+  }
+]

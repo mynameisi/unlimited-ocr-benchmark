@@ -1,0 +1,50 @@
+[
+  {
+    "file": "c1_chinese_scanned.pdf",
+    "cer": 0.0039,
+    "edit_distance": 1,
+    "ref_chars": 254,
+    "time_s": 13.0,
+    "verdict": "\u2b50EXCELLENT"
+  },
+  {
+    "file": "c2_photo_doc.pdf",
+    "cer": 0.75,
+    "edit_distance": 417,
+    "ref_chars": 556,
+    "time_s": 8.9,
+    "verdict": "\u274c POOR"
+  },
+  {
+    "file": "c3_handwriting.pdf",
+    "cer": 2.1922,
+    "edit_distance": 1460,
+    "ref_chars": 666,
+    "time_s": 26.2,
+    "verdict": "\u274c POOR"
+  },
+  {
+    "file": "c4_poor_quality.pdf",
+    "cer": 0.2596,
+    "edit_distance": 95,
+    "ref_chars": 366,
+    "time_s": 6.7,
+    "verdict": "\u2705 GOOD"
+  },
+  {
+    "file": "c5_newspaper.pdf",
+    "cer": 0.0048,
+    "edit_distance": 3,
+    "ref_chars": 620,
+    "time_s": 11.4,
+    "verdict": "\u2b50EXCELLENT"
+  },
+  {
+    "file": "c6_stamped_doc.pdf",
+    "cer": 2.2787,
+    "edit_distance": 1447,
+    "ref_chars": 635,
+    "time_s": 26.1,
+    "verdict": "\u274c POOR"
+  }
+]

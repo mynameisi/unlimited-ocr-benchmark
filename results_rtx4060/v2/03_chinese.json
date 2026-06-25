@@ -1,0 +1,27 @@
+{
+  "desc": "Chinese paper (1.4MB, 5p)",
+  "size_mb": 1.4,
+  "total_pages": 5,
+  "tested": 3,
+  "avg_time": 25.7,
+  "pages": [
+    {
+      "page": 1,
+      "time": 27.2,
+      "w": 1700,
+      "h": 2200
+    },
+    {
+      "page": 2,
+      "time": 25.8,
+      "w": 1700,
+      "h": 2200
+    },
+    {
+      "page": 3,
+      "time": 24.2,
+      "w": 1700,
+      "h": 2200
+    }
+  ]
+}

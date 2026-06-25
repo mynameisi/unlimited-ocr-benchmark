@@ -1,0 +1,27 @@
+{
+  "desc": "Mixed CN/EN (3.1MB, 58p)",
+  "size_mb": 3.1,
+  "total_pages": 58,
+  "tested": 3,
+  "avg_time": 21.9,
+  "pages": [
+    {
+      "page": 1,
+      "time": 27.4,
+      "w": 1654,
+      "h": 2339
+    },
+    {
+      "page": 2,
+      "time": 18.1,
+      "w": 1654,
+      "h": 2339
+    },
+    {
+      "page": 3,
+      "time": 20.3,
+      "w": 1654,
+      "h": 2339
+    }
+  ]
+}
